@@ -6,3 +6,5 @@ shob e bushlam. pull kore dekhaoo......
 
 
 After new branch
+
+logo alignment is center
